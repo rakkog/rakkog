@@ -1,5 +1,4 @@
 <h1 align="center">Hello there 👋, I'm Gokce</h1>
-<h3 align="center">MSc Student at ITU in Mathematical Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakkog&label=Profile%20views&color=0e75b6&style=flat" alt="rakkog" /> </p>
 
