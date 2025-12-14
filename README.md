@@ -12,4 +12,4 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://www.opencv.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://www.nltk.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nltk/nltk-icon.svg" alt="nltk" width="40" height="40"/> </a> </p>
+<a href="https://www.nltk.org" target="_blank" rel="noreferrer"> <img src="https://www.pinterest.com/pin/nltk-logo--575194183657399929/" alt="nltk" width="40" height="40"/> </a> </p>
